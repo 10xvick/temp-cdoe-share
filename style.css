@@ -1,3 +1,9 @@
 h1, h2 {
   font-family: Lato;
 }
+
+#can{
+  width: 100%;
+  background: rgb(0, 109, 0);
+  image-rendering: pixelated;
+}
